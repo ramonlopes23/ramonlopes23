@@ -115,8 +115,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
  
 <img 
  align="left"
- alt="spring"
- title="spring"
+ alt="Kotlin"
+ title="Kotlin"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
