@@ -31,8 +31,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 
 <img 
  align="left"
- alt="CSS"
- title="CSS"
+ alt="Bootstrap"
+ title="Bootstrap"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
@@ -41,8 +41,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 
 <img
  align="left"
- alt="JS"
- title="JS"
+ alt="JavaScript"
+ title="JavaScript"
  width="30px"
  style="padding-right:10px"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -50,8 +50,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
  
 <img
  align="left"
- alt="TS"
- title="TS"
+ alt="TypeScript"
+ title="TypeScript"
  width="30px"
  style="padding-right:10px"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -60,8 +60,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
  
 <img
  align="left"
- alt="Node"
- title="Node"
+ alt="Node.js"
+ title="Node.js"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -69,8 +69,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img 
 align="left"
- alt="react"
- title="react"
+ alt="React"
+ title="React"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -78,8 +78,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 
 <img 
 align="left"
- alt="angular"
- title="angular"
+ alt="Angular"
+ title="Angular"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
@@ -87,8 +87,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
 
 <img 
 align="left"
- alt="php"
- title="php"
+ alt="PHP"
+ title="PHP"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -96,8 +96,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
 
 <img 
 align="left"
- alt="java"
- title="java"
+ alt="Java"
+ title="Java"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -106,8 +106,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
  <img 
  align="left"
- alt="spring"
- title="spring"
+ alt="Spring"
+ title="Spring"
  width="30px"
  style="padding-right:10px"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
@@ -124,8 +124,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-ori
 
 <img 
 align="left"
- alt="spring"
- title="spring"
+ alt="MySql"
+ title="MySql"
  width="30px"
  style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
