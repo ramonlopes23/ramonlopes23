@@ -1,7 +1,7 @@
 # 👨‍💻Ramon Lopes
 **`Estagiário de desenvolvimento`**
 
-Me chamo Ramon Lopes, tenho 24 anos e Sou aficionado por tecnologia desde a infância.Durante a adolescência, desenvolvi um
+Me chamo Ramon Lopes, tenho 24 anos e Sou aficionado por tecnologia desde a infância. Durante a adolescência, desenvolvi um
 grande interesse por informática e desenvolvimento de software. Aos 16 anos, ingressei
 no curso Técnico em Informática para aprofundar meus conhecimentos e ter uma
 introdução mais sólida na área. Atualmente, estou cursando Análise e Desenvolvimento
