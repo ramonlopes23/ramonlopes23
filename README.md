@@ -133,7 +133,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <br/>
 <br/>
 
-## 📊 Linguagens mais utilizadas
+### 📊 Linguagens mais utilizadas
 
 <img
 align="left"
