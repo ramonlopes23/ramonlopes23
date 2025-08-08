@@ -1,12 +1,7 @@
 # 👨‍💻Ramon Lopes
 **`Estagiário de desenvolvimento`**
 
-Me chamo Ramon Lopes, tenho 24 anos e Sou aficionado por tecnologia desde a infância. Durante a adolescência, desenvolvi um
-grande interesse por informática e desenvolvimento de software. Aos 16 anos, ingressei
-no curso Técnico em Informática para aprofundar meus conhecimentos e ter uma
-introdução mais sólida na área. Atualmente, estou cursando Análise e Desenvolvimento
-de Sistemas e busco minha primeira oportunidade no mercado de desenvolvimento de
-softwares e sistemas.
+I am Ramon Lopes, a development intern at the Information and Intelligence Advisory Office of the Office of the Comptroller General of the Municipality of Ferraz de Vasconcelos. I have been studying technology since 2016, with a technical degree in IT (ETEC) and currently pursuing a degree in Systems Analysis and Development (FATEC). I work on developing solutions for public management, process automation, and strategic data analysis, with previous experience in helpdesk and technical support. My main focus is frontend (Angular, React, PHP), while expanding my knowledge in backend (Java Spring Boot). I share projects on GitHub and seek connections for knowledge exchange and collaboration on innovative solutions.
 
 ---
 
